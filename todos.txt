@@ -1,0 +1,5 @@
+give
+get
+take
+check
+help
